@@ -1,5 +1,5 @@
 id,email,site_url,password
-4,example@gmail.com,example,
-5,example@gmail.com,example.com,69387430
-6,ylarie@gmail.com,example,7430739
-7,nzeyehylarie03@gmail.com,example,7t98z6
+1,example@mail.com,example.com,password123
+2,john.doe@mail.com,johndoe.com,securepass456
+3,jane.doe@mail.com,janedoe.com,qwerty789
+4,admin@mail.com,adminpage.com,adminadmin000

@@ -69,8 +69,8 @@ def  delete_details(id):
 @app.route('/export')
 def export_data():
     # Crée un fichier CSV
-    with open('dump.csv', 'w', newline='') as f:
-        writer = csv.writer(f)
+    with open('dump.csv', 'w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f, delimiter=',')
         
         # Écrire l'en-tête
         writer.writerow(['id', 'email', 'site_url', 'password'])
