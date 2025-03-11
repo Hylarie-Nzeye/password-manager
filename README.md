@@ -13,8 +13,8 @@ This is a simple and secure **Password Manager** built using **Flask** (a Python
 
 ## Screenshots
 
-![Screenshot 1](images/screenshot1.png)
-![Screenshot 2](images/screenshot2.png)
+![Screenshot 1](images/Screenshot1.png)
+![Screenshot 2](images/Screenshot2.png)
 
 ## Technologies Used
 
